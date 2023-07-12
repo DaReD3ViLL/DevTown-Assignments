@@ -1,2 +1,2 @@
-Assignment - DevTown Landing Page.
-DevTown Landing Page Created Using HTML & CSS.
+Assignment - Rock-Paper-Scissor Game
+Rock-Paper-Scissor Game Page Created using HTML,CSS.
